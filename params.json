@@ -1,6 +1,6 @@
 {
   "name": "Polyproject",
   "tagline": "",
-  "body": "Here is polynomial project!\r\n",
+  "body": "\r\n<img src=\"http://chuantu.biz/t5/44/1481604465x851434792.png\" alt=\"hi\" class=\"inline\" /> \r\n# **Hi! Here is polynomial project!**\r\n<br> **Requirement**:  The executable will consume two filenames from the command line and will print to stdout the sum of the two polynomials found in those files. These polynomials will be stored in the following format: 5 9 8 7 6 5 represents 9*x^4 + 8*x^3 + 7*x^2 + 6*x^1 + 5. More formally there will be a single line which begins with an integer that represents the length of the polynomial (the degree plus 1) followed by white-space then white-space separated coefficients in descending order. The program expects the highest-degree term to be non-zero. Example: 3 1 0 2 plus 5 1 0 0 1 2 should display to screen 5 1 0 1 1 4 , do this by multiple too.\r\n<br>We use the linked list to do the add and multiple. Also, we do a lot of converts since we need to convert the int number to polynomial and display the int number in the final result.\r\n<br>If you want to see **\"README\"**, please click **\"View on GitHub\"** on the left side.\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
